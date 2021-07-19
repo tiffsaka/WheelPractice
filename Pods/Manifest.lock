@@ -1,0 +1,16 @@
+PODS:
+  - CircleAnimatedMenu (1.0.5)
+
+DEPENDENCIES:
+  - CircleAnimatedMenu (~> 1.0)
+
+SPEC REPOS:
+  trunk:
+    - CircleAnimatedMenu
+
+SPEC CHECKSUMS:
+  CircleAnimatedMenu: 0a37efe511f469e68ecc16fde349aa684f0344db
+
+PODFILE CHECKSUM: c95da20b9436ec82339eb53ce97396f597e3be0d
+
+COCOAPODS: 1.10.1
