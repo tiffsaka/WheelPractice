@@ -27,6 +27,8 @@ class ViewController: UIViewController, CircleAnimatedMenuDelegate {
 
     func sectionSelected(text: String, index: Int) {
         print(text.lowercased())
+        print(index)
+        print("-----------------")
     }
     
 }
